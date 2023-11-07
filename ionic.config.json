@@ -1,0 +1,7 @@
+{
+  "name": "layoutBasico",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
